@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+
+
+/appML/__pycache__/
+/softcom/__pycache__/
+/softcom/migrations/__pycache__/
